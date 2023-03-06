@@ -95,4 +95,3 @@ Copy the URL link that will appear at the end after executing the above code and
 
 The Web App for E-commerce Shipping is ready at your service!
 
-For any troubleshootings or feedback, contact me on [LinkedIN](https://www.linkedin.com/in/gaurav-kamble-data-science-101/)
